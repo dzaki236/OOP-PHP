@@ -31,3 +31,4 @@ echo "<br>";
 echo $kodok->name;
 echo "<br>";
 echo $kodok->kakiFrog;
+
