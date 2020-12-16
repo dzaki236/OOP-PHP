@@ -10,5 +10,3 @@ class Ape extends Animal
     }
 }
 
-
-?>
