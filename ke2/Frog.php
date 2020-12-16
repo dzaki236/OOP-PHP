@@ -9,5 +9,3 @@ class Frog extends Animal
         echo "Hop hop";
     }
 }
-
-?>
